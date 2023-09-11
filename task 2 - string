@@ -18,3 +18,14 @@
 18. Remove all digits from a string.
 19. Capitalize the first letter of each word in a string.
 20. Swap the case of all characters in a string (convert lowercase to uppercase and vice versa).
+21. String Concatenation: Create a program that takes two strings as input and concatenates them.
+22. Word Count: Create a program that counts the number of words in a given sentence.
+23. Character Count: Write a program that counts the number of occurrences of a specific character in a string.
+24. UpperLower to LowerUpper: Convert a given string uppercase characters to lowercase and lowercase characters to uppercase.
+25. Remove Whitespace: Create a program that removes all whitespace from a string.
+26. Replace Substring: Write a program that replaces all occurrences of a substring with another substring in a given string.
+27. Palindrome Check: Create a program that checks if a given string without the first and last characters is a palindrome (reads the same forwards and backwards).
+28. Eltit (Title reverse) Case: Convert a word to eltit (title reverse) case (capitalize the last letter of each word).
+29. String Rotation: rotate a string to an another string (e.g., 'abc' is a rotation of 'bca').
+30. String Truncation: Create a program that shortens a long string to a specified length and adds "..." to the end if it's truncated.
+31. Vowel Count: Write a function that counts the number of vowels in a given string.
