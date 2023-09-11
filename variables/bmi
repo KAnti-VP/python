@@ -1,0 +1,5 @@
+Print the Body mass index (BMI) based on these values.
+
+Example:
+mass_in_kg = 81.2
+height_in_m = 1.78
