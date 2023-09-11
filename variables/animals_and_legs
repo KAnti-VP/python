@@ -1,5 +1,3 @@
-task 1 - animalsAndLegs
-
 Write a program that asks for two integers
 The first represents the number of chickens the farmer has
 The second represents the number of pigs owned by the farmer
@@ -11,35 +9,6 @@ Please enter the number of chickens: 4
 Please enter the number of pigs: 2
 The number of legs: 16
 
-
-task 2 - basicInfo
-
-Define several things as a variable then print their values
-Your name as a string
-Your age as an integer
-Your height in meters as a float
-Whether you are married or not as a boolean
-
-
-task 3 - bmi
-
-Print the Body mass index (BMI) based on these values.
-
-Example
-mass_in_kg = 81.2;
-height_in_m = 1.78;
-
-
-task 4 - codingHours
-
-An average attendee codes 6 hours daily
-The semester is 17 weeks long
-
-Print how many hours is spent with coding in a semester by an attendee,
-if the attendee only codes on workdays.
-
-Print the percentage of the coding hours in the semester if the average
-work hours weekly is 52
 
 
 task 5 - cuboid
