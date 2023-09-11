@@ -1,0 +1,20 @@
+1. Create a string variable and print its length.
+2. Concatenate two strings together.
+3. Convert a string to uppercase.
+4. Convert a string to lowercase.
+5. Remove leading and trailing whitespace from a string.
+6. Check if a string contains a specific substring.
+7. Replace all occurrences of a substring in a string.
+8. Split a string into a list of words.
+9. Join a list of words into a single string with spaces between them.
+10. Extract the first 5 characters from a string.
+11. Extract the last 3 characters from a string.
+12. Reverse a string.
+13. Check if a string is a palindrome (reads the same backward as forward).
+14. Count the number of occurrences of a specific character in a string.
+15. Find the index of the first occurrence of a specific substring in a string.
+16. Check if a string starts with a specific prefix.
+17. Check if a string ends with a specific suffix.
+18. Remove all digits from a string.
+19. Capitalize the first letter of each word in a string.
+20. Swap the case of all characters in a string (convert lowercase to uppercase and vice versa).
