@@ -1,0 +1,7 @@
+Write a program that takes a number from each of two players. The number is the symbol corresponding to the stone, paper, scissors game.
+Write out whether the first or second player is the winner or a tie.
+
+Example:
+The second player wins.
+The game is a tie.
+The first player wins.
