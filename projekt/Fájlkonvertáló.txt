@@ -1,0 +1,38 @@
+Feladatleírás: Fájlkonvertáló Python Program
+
+Készíts egy egyszerű fájlkonvertáló Python programot, amely lehetővé 
+teszi a felhasználó számára különböző típusú fájlok konvertálását 
+egyik formátumból a másikba. A programnak az alábbi funkciókat kell támogatnia:
+
+1. Fájltípusok:
+
+PNG fájlok konvertálása JPG formátumra és fordítva.
+CSV fájlok konvertálása JSON formátumra és fordítva.
+TXT fájlok konvertálása:
+   Szótárból CSV formátumba és fordítva.
+   Szótárból JSON formátumba és fordítva.
+
+2. Felhasználói interakció:
+
+Bekéri a felhasználótól a forrás fájl típusát (PNG, JPG, CSV, JSON, TXT).
+Bekéri a konvertálandó fájl nevét vagy elérési útvonalát.
+Bekéri a kívánt cél fájl típusát (PNG, JPG, CSV, JSON, TXT).
+
+3. Konvertálás:
+
+Végrehajtja a konvertálást a megadott típusok között.
+
+4. Eredmény kiírása:
+
+Kiírja a konvertált fájl elérési útját.
+
+5. Hiba kezelés:
+
+Ellenőrzi, hogy a bemeneti fájl létezik-e.
+Ellenőrzi, hogy a megadott típusok konvertálhatók-e.
+
+
+A programnak folyamatosan futnia kell, és a felhasználónak lehetőséget 
+kell adnia az új konvertációk végrehajtására az aktuális feladat 
+elvégzése után. A felhasználó bármikor ki tud lépni a programból 
+egy megfelelő parancs használatával.
