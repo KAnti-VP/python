@@ -1,0 +1,43 @@
+Feladatleírás: Interaktív Fájlkezelő Program
+
+Készíts egy interaktív fájlkezelő programot, amely képes kezelni az aktuális munkakönyvtárban található mappákat és fájlokat. A programnak az alábbi funkciókat kell támogatnia:
+
+1. Munkakönyvtár megjelenítése:
+
+Kiírja az aktuális munkakönyvtárat.
+
+2. Mappatartalom megjelenítése:
+
+Lehetőség választása esetén kiírja az aktuális mappa tartalmát.
+
+3. Új mappa létrehozása:
+
+Felajánlja a lehetőséget egy új mappa létrehozására.
+Bekéri az új mappa nevét.
+Létrehozza az új mappát.
+Kiírja az aktuális mappát.
+
+4. Új txt fájl létrehozása:
+
+Felajánlja a lehetőséget egy új txt fájl létrehozására.
+Bekéri az új fájl nevét.
+Létrehozza az új fájlt.
+Bekéri, hogy mi legyen az új fájlban.
+Kiírja az aktuális mappát.
+
+5. Szülő könyvtárba lépés:
+
+Átlép a szülő könyvtárba.
+
+6. Almappába lépés:
+
+Felajánlja a lehetőséget egy almappába való belépésre.
+Bekéri az almappa nevét.
+Módosítja az aktuális könyvtárat az almappára.
+Kiírja az aktuális mappát.
+
+
+A programnak folyamatosan futnia kell, és a felhasználónak lehetőséget 
+kell adnia az új parancsok kiadására az aktuális feladat elvégzése után. 
+A felhasználó bármikor ki tud lépni a programból egy megfelelő parancs 
+használatával.
