@@ -62,7 +62,8 @@ def get_sum_max_scores(files):
             max_score += int(f.readline().strip())
     return max_score
 
-def get_course_scores(files):
+def get_course_scores(tasks):
+    files = tasks_to_files(tasks)
     set_json_file(files)
     dic = get_dict_from_json()
     max_score = get_sum_max_scores(files)
@@ -74,7 +75,33 @@ def get_course_scores(files):
         res[k] = round(scores / max_score * 100, 1)
     return res
 
-course1 = ['1.txt', '2.txt', '4.txt', '5.txt']
+def tasks_to_files(tasks):
+    files = []
+    for i in tasks:
+        files.append(f'{i}.txt')
+    return files
+
+def display_ressults(res):
+    import __init__
+    students = __init__.diakok
+    for k in students.keys():
+        # 40 55 70 85
+        jegy = 1
+        percent = 0.0
+        if k in res:
+            if res[k] >= 85:
+                jegy = 5
+            elif 70 <= res[k] < 85:
+                jegy = 4
+            elif 55 <= res[k] < 70:
+                jegy = 3
+            elif 40 <= res[k] < 55:
+                jegy = 2
+            percent = res[k]
+        print(f'{students[k].ljust(26)} {str(percent).ljust(5)}% > jegy: {jegy}')
+
+
+course1 = [1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 
 res = get_course_scores(course1)
-print(res)
+display_ressults(res)
