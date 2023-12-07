@@ -1,0 +1,7 @@
+name gender
+George male
+Helen female
+Ian male
+Julia female
+Karl male
+Lucia female

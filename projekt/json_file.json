@@ -1,0 +1,27 @@
+{ "data" : [
+  {
+    "name": "Mike",
+    "gender": "male"
+  },
+  {
+    "name": "Nikole",
+    "gender": "female"
+  },
+  {
+    "name": "Oscar",
+    "gender": "male"
+  },
+  {
+    "name": "Paula",
+    "gender": "female"
+  },
+  {
+    "name": "Rebeca",
+    "gender": "female"
+  },
+  {
+    "name": "Simon",
+    "gender": "male"
+  }
+  ]
+}
