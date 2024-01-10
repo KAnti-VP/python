@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+
 class Filehandler:
 
     def __init__(self) -> None:
@@ -25,7 +28,7 @@ class Filehandler:
             line = ''
             for row in self.content:
                 for word in row:
-                    if word[0] in 'aeiou':
+                    if word[0] in 'aeiouáéyóöőúüű':
                         line += f'{word} '
             file.write(line[:-1])
 
