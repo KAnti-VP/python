@@ -1,4 +1,6 @@
 import json
+import os
+
 
 def get_json_data(file):
     with open(file, 'r', encoding='utf-8') as f:
@@ -101,7 +103,12 @@ def display_ressults(res):
         print(f'{students[k].ljust(26)} {str(percent).ljust(5)}% > jegy: {jegy}')
 
 
-course1 = [1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+module_get_post = [1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+module_get = [24, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35, 36, 37, 38, 39, 40]
+module_secutity = [41, 44, 45, 46, 47, 48, 49, 50, 51]
+module_put = [53, 55, 56, 57, 58]
+module_delete = [59, 61, 62, 63, 64, 65, 66]
+os.chdir(os.getcwd() + '/springboot')
 
-res = get_course_scores(course1)
+res = get_course_scores(module_delete)
 display_ressults(res)

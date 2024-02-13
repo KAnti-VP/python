@@ -1,0 +1,41 @@
+3
+szt2otokov@vasvari.org
+1		jan. 4. 11:01	
+szt2palpat@vasvari.org
+3		jan. 4. 11:02	
+szt2szaviv@vasvari.org
+0		jan. 5. 16:58	
+szt2keklaj@vasvari.org
+2		jan. 6. 12:01	
+szt2kehsza@vasvari.org
+2		jan. 6. 12:21	
+szt2bukarm@vasvari.org
+3		jan. 6. 13:28	
+szt2zakbal@vasvari.org
+3		jan. 7. 18:04	
+szt2mikric@vasvari.org
+2		jan. 8. 11:54	
+szt2gemsza@vasvari.org
+1		jan. 8. 12:06	
+szt2makpet@vasvari.org
+2		jan. 8. 22:20	
+szt2peltam@vasvari.org
+2		jan. 9. 7:02	
+szt2mulben@vasvari.org
+3		jan. 9. 7:37	
+szt2halpat@vasvari.org
+1		jan. 9. 9:31	
+szt2vetmat@vasvari.org
+2		jan. 9. 9:38	
+szt2misnan@vasvari.org
+1		jan. 9. 10:17	
+szt2mosjos@vasvari.org
+2		jan. 9. 11:59	
+szt2hodlaj@vasvari.org
+2		jan. 9. 15:47	
+szt2bacpet@vasvari.org
+2		jan. 10. 18:51	
+szt2agoarm@vasvari.org
+2		jan. 12. 8:43	
+szt2poltam@vasvari.org
+1		jan. 23. 12:06
