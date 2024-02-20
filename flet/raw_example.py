@@ -4,7 +4,6 @@ import flet as ft
 def main(page: ft.Page):
 
     page.title = 'Row beállítások'
-    page.scroll = ft.ScrollMode.AUTO
 
     # konténetek hozzáadása az items listához
     def add_items(count):
