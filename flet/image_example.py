@@ -54,7 +54,7 @@ def main(page: ft.Page):
             color='green',
             color_blend_mode=blend_mode
         ))
-        print(f'{i}. Blemd mode: {blend_mode}')
+        print(f'{i}. Blemd mode: ft.{blend_mode}')
     page.update()
 
     page.add(ft.Text('Error, a kép nem jeleníthető meg'))
@@ -83,7 +83,7 @@ def main(page: ft.Page):
             width=200,
             fit=fit_mode
         ))
-        print(f'{i}. Image fit mode: {fit_mode}')
+        print(f'{i}. Image fit mode: ft.{fit_mode}')
     page.update()
 
     page.add(ft.Text('Képmegjelenítés külső forrásból'))
@@ -113,7 +113,7 @@ def main(page: ft.Page):
             width=400,
             repeat=repeat_mode
         ))
-        print(f'{i}. Repeat mode: {repeat_mode}')
+        print(f'{i}. Repeat mode: ft.{repeat_mode}')
     page.update()
 
     page.add(ft.Text('Tooltip - egérmutató a kép fölött'))
