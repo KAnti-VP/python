@@ -1,0 +1,8 @@
+Write a program which prompts the user for a float value
+specifying a distance in miles; converts that value
+to kilometers and prints it
+
+Example:
+
+Please enter a distance in miles: 1.8
+The distance in km: 2.88
