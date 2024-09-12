@@ -1,0 +1,1 @@
+Connect two strings and print the result.
