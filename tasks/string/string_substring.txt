@@ -1,0 +1,5 @@
+Check that the string “To be, or not to be, that is the question” contains a specific substring:
+"bee"
+"to be"
+Use a string method.
+Answer in a complete sentence.
