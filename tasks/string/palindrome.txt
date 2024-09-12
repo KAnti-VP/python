@@ -1,0 +1,4 @@
+Check if a string is a palindrome (reads the same backward as forward).
+
+"deified"
+"borrow or rob"
