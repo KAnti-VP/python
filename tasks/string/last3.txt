@@ -1,0 +1,2 @@
+Extract the last 3 characters from a string: 
+"O, then, dear saint, let lips do what hands do;"
