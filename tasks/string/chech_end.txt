@@ -1,0 +1,2 @@
+Check if a string "goodnight" ends with suffix "knight".
+Answer in a full sentence.
