@@ -1,1 +1,2 @@
-Create a string variable and print its length.
+Create a string variable for “Don't waste your love on somebody, who doesn't value it.” and write out its length.
+Print the quote as well and answer in full sentence.
