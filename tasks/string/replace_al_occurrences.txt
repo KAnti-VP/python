@@ -1,0 +1,4 @@
+Replace all occurrences of night to day in the string:
+“Good night, good night! parting is such sweet sorrow,
+That I shall say good night till it be morrow.”
+Print the original and the result string.
