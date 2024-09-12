@@ -5,3 +5,5 @@ Strings:
 " banana  "
 "  cantaloupe "
 " date"
+"eggplant\n"
+"\n\tfig\t\n"
