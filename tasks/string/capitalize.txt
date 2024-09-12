@@ -1,0 +1,2 @@
+1) Capitalize the first letter in a string: shakerpeare
+2) Capitalize the last letter in a string: Shakespeare
