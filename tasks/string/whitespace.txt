@@ -1,0 +1,7 @@
+Remove leading and trailing whitespace from a string.
+
+Strings:
+"  apple"
+" banana  "
+"  cantaloupe "
+" date"
