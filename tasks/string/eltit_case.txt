@@ -1,0 +1,5 @@
+Convert a word to "eltit" (title reverse) case (capitalize the last letter of the word lower the rest).
+
+"Amanda"
+"kayak"
+"USA"
