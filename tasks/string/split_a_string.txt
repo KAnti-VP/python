@@ -1,0 +1,2 @@
+Split a string into a list of words by space and print the result.
+“Do not swear by the moon for she changes constantly then your love would also change”
