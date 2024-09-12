@@ -1,0 +1,8 @@
+Swap the case of all characters in a string (convert lowercase to uppercase and vice versa).
+Print the result.
+"""
+Do you bite your thumb at us, sir?
+SAMPSON [Aside to Gregory]: Is the law of our side, if I say ay?
+GREGORY [Aside to Sampson]: No.
+SAMPSON: No, sir, I do not bite my thumb at you, sir, but I bite my thumb, sir.
+"""
