@@ -1,1 +1,2 @@
-Convert a string to lowercase and print the result.
+Adapt the sentence “For never was a story of more woe than this of Juliet and her Romeo.” into lower case and print the result.
+Use a string variable and a method.
