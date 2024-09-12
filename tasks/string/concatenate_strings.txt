@@ -1,1 +1,2 @@
-Connect two strings and print the result.
+Create two string variables for “thus with“ and “a kiss I die”. 
+Connect the strings and print out the result.
