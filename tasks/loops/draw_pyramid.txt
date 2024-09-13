@@ -1,0 +1,9 @@
+Write a program that reads a number from the standard input and then draws a pyramid of the specified height
+
+Example:
+
+Please enter the pyramid height: 4
+   *
+  ***
+ *****
+*******
