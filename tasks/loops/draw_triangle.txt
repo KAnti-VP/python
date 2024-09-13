@@ -1,0 +1,8 @@
+Write a program that reads a number from the standard input and then draws a triangle of the specified height
+
+Example:
+Please enter the triangle height: 4
+*
+**
+***
+****
