@@ -1,0 +1,5 @@
+Write a program that takes a number and calculates whether it is divisible by 3 and 5.
+
+Example:
+Not divisible by 3.
+Divisible by 5.
