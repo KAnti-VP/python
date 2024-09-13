@@ -1,0 +1,7 @@
+Write a for loop that calculates the sum of the digits of a given number.
+
+Example:
+number = 234
+
+Output:
+The sum of digits is 9.
