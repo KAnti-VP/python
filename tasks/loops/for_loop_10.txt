@@ -1,0 +1,9 @@
+Write a for loop that iterates through a string of numbers and prints the square of each number.
+
+Example:
+number = 234
+
+Output:
+4
+9
+16
