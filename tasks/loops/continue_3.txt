@@ -1,0 +1,7 @@
+Create a program that prints the letters from a string but not the uppercase letters.
+
+Example:
+my_string = "I have an Apple"
+
+Output:
+" have an pple"
