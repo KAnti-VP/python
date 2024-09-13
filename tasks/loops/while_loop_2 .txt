@@ -1,0 +1,16 @@
+A while loop can be an infinite loop.
+
+For example:
+
+
+while True:
+print('Welcome")
+
+or
+
+i = 1
+while i < 5:
+print(i)
+i = i - 1
+
+Create a while loop that prints a sentence endless times.
