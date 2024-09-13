@@ -1,0 +1,4 @@
+Write a program that takes a number and checks whether it is odd or even.
+
+Example:
+The given number is odd.
