@@ -1,0 +1,13 @@
+Create a program that gets a number and then prints a string based on the digits:
+if zero, it writes o
+if it is prime, it writes p
+if it is even and not prime, it writes i
+if it is one, it writes c
+if greater than 4, odd, and not prime, then writes k
+
+Use while loop.
+
+
+Example:
+Enter a number: 90741
+kopic
