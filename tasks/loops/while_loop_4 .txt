@@ -1,0 +1,12 @@
+Create a program that asks for a string and prints out whether the characters are vowels or not.
+If they are vowels, it prints whether they are upper or lower case.
+Use a while loop.
+
+
+Enter a string: AmelIa
+A is an uppercase vowel
+m is not a vowel
+e is a lowercase vowel
+l is not a vowel
+I is an uppercase vowel
+a is a lowercase vowel
