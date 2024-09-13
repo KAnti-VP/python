@@ -1,0 +1,7 @@
+Players take turns to count incrementally, replacing 
+any number divisible by three with the word "fizz", 
+and any number divisible by five with the word "buzz", 
+and any number divisible by both 3 and 5 with the word "fizzbuzz"
+
+Output:
+1, 2, fizz, 4, buzz, fizz, 7, 8, fizz, buzz, 11, fizz, 13, 14, fizzbuzz, 16, 17, fizz, 19, buzz, ...
