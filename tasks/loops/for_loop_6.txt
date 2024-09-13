@@ -1,0 +1,10 @@
+Write a for loop that calculates the factorial of a given number.
+
+Exapmle:
+number = 3
+
+Factorial:
+3! = 1 * 2 * 3 = 6
+
+Output:
+3 factorial is 6.
