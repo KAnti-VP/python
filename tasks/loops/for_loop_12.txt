@@ -1,0 +1,7 @@
+Create a for loop that calculates the average of the digits of a given number.
+
+Example:
+number = 268
+
+Output:
+The average of digits is 5.333333333333333
