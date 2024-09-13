@@ -1,0 +1,1 @@
+Create a while loop that prints different numbers randomly many times.
