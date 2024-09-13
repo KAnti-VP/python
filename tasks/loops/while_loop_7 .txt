@@ -1,0 +1,5 @@
+Write a while loop that calculates the factorial of a given number.
+
+Example:
+Enter a number: 5
+120
