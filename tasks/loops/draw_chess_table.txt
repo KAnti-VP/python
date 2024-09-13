@@ -1,0 +1,12 @@
+Write a program that reads a number from the standard input and then draws a chess table of the specified size
+
+Example:
+Please enter the chess table size: 8
+ % % % %
+% % % %
+ % % % %
+% % % %
+ % % % %
+% % % %
+ % % % %
+% % % %
