@@ -1,0 +1,11 @@
+Write a for loop that iterates through a string and prints each letter.
+
+Example:
+my_string = 'apple'
+
+Output:
+a
+p
+p
+l
+e
