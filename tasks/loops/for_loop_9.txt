@@ -1,0 +1,7 @@
+Use a for loop to reverse a given string.
+
+Example:
+my_string = 'apple'
+
+Poutput:
+elppa
