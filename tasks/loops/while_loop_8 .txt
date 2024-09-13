@@ -1,0 +1,9 @@
+Create a while loop that prints a pattern of asterisks in the shape of a right triangle.
+
+Enter a number: 5
+
+    *
+   **
+  ***
+ ****
+*****
