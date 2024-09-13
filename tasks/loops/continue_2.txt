@@ -1,0 +1,7 @@
+Create a program that prints the letters from a string but not the vowels.
+
+Example:
+my_string = "I have an apple"
+
+Output:
+" hv n ppl"
