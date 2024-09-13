@@ -3,9 +3,9 @@ Write a program that reads a number from the standard input and then draws a squ
 Example:
 
 Please enter the square size: 6
-%%%%%%
-%    %
-%    %
-%    %
-%    %
-%%%%%%
+******
+*    *
+*    *
+*    *
+*    *
+******
