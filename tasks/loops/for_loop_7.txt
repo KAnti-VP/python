@@ -1,0 +1,7 @@
+Create a for loop that iterates through a string and counts the number of vowels.
+
+Example:
+my_string = "apple"
+
+Output:
+The number of vowels in the word "apple" is 2.
