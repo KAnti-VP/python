@@ -1,0 +1,7 @@
+Write a program that checks if a given year is a leap year or not.
+
+Leap years:
+2000, 2004, 1904, 2024, 1600
+
+Not leap years:
+1900, 1929, 1933, 2023, 1867
