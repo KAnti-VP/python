@@ -1,0 +1,4 @@
+Hozz létre három tömböt - listát!
+1. érdemjegyeket tartalmazzon
+2. az iskola osztályainak elnevezését tartalmazza
+3. diákok adatait tartalmazza
