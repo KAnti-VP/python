@@ -1,0 +1,3 @@
+Készíts programot, melyben megadsz egy listát.
+Fordítsd meg a lista elemeinek a sorrendjét és írasd ki a listát!
+Készíts több megoldást!
