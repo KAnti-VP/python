@@ -1,0 +1,5 @@
+Hozz létre egy többelemű listát.
+Készíts másolatot róla.
+Fordítsd meg az új listában az elemek sorrendjét.
+Add hozzá az új listához az utolsó elem kétszeresét.
+Nyomtasd ki a két listát.
