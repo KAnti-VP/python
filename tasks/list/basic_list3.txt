@@ -1,0 +1,1 @@
+Írasd ki a tömbjeid hosszát és az elemeit egy sorban szóközzel elválaszva!
