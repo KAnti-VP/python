@@ -1,0 +1,7 @@
+Adottak a következő listák:
+winning_numbers = [5, 11, 9, 42, 49] # nyerőszámok
+bets = [3, 7, 11, 42, 34, 49] # megjátszott számok
+hits = 0 # találatok
+
+Készíts egy programot, mely kiírja, hogy a heti lottóhúzáson hány találatod volt.
+Válaszolj egész mondatban.
