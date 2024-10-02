@@ -1,0 +1,4 @@
+Távolítsd el a tömbökből az első elemet!
+1. Az első tömbre használd a del parancsot
+2. A második tömbre használd a pop() metódust és távolítsd el az utolsó elemet
+3. A harmadik tömbre használd a remove() metódust
