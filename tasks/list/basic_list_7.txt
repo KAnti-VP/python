@@ -1,0 +1,5 @@
+Hozz létre egy programot, mely
+bekéri, hogy hány elemet szeretnél megadni, majd
+létrehoz egy listát és
+feltölti a iistát a felhasználó átal megadott értékekkel
+A lista elemeinek sorrendje fordítottja legyen a felhasználó által megadott értékek sorrendjének!
