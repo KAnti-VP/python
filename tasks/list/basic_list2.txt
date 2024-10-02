@@ -1,0 +1,4 @@
+Az előző feladatban létrehozott tömbök hermadik elemét adjuk az adott tömb
+1. az első elem értékéül
+2. a második elem értékéül
+3. az utolsó elem értékéül
