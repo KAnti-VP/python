@@ -1,0 +1,7 @@
+Write a program that reflects these changes and allows you to practice with the concept of lists. Your task is:
+Step 1: create an empty list called beatles;
+Step 2: using the append() method, add to the list the following members of the band: John Lennon, Paul McCartney and George Harrison;
+Step 3: using the for loop and the append() method, ask the user to add the following members of the band to the list: Stu Sutcliffe and Pete Best;
+Step 4: use the remove statement to remove Stu Sutcliffe and Pete Best from the list;
+Step 5: use the insert() method to add Ringo Starr to the top of the list.
+After each step, print the list.
