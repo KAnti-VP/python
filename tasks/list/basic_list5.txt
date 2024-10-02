@@ -1,0 +1,10 @@
+Adott az alábbi lista: [21, 32, 13, 44, 75] 
+
+1. lépés: írjunk egy kódsort, amely megkérdezi a felhasználót, hogy melyik elemet mdosítsa a program.
+Az adott elemet módosítsd a felhasználó által megadott számra.
+
+2. lépés: írjunk egy kódsort, amely eltávolítja az utolsó elemet a listából.
+
+3. lépés: írjunk egy kódsort, amely kiírja a meglévő lista hosszát.
+
+3. lépés: Írjunk kódot, mely kiírja sorban a lista elemeit. Soronként egye-egy elemet.
