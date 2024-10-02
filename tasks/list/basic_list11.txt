@@ -1,0 +1,9 @@
+Hozz létre két listát.
+Az elsőnek adj meg több elemet.
+A második legye egyenlő az elsővel.
+Változtasd meg az első és a második listát felváltva.
+- adj hozzá pár elemet az egyikhez, majd a másikhoz
+- szúrj be egy elemet
+- törölj az elsőből elemet az elejéről
+- törölj a másodikból elemet a végéről
+Írasd ki a két listát!
