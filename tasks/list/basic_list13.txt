@@ -1,0 +1,4 @@
+Hozz létre két listát és írd ki az uniójukat!
+
+Szorgalmi:
+Az unióban mindegyik elen egyedi legyen. Azaz egyik érték se szerepeljen kétszer a listában.
