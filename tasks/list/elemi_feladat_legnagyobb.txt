@@ -1,0 +1,5 @@
+Készíts programot, mely véletlen szám generálással feltölt egy listát 20 darab számmal.
+Írasd ki a legynagyobb számot a listából!
+
+1) Oldd meg ciklus használatával!
+2) Oldd meg rendezéssel!
