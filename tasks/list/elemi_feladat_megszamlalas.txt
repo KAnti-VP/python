@@ -1,0 +1,5 @@
+Készíts egy 50 elemű listát, mely véletlen számokat tartalmaz 1-tő 50-ig (beleértve az ötvenet is).
+A felhasználótól bekérsz egy számot és írasd ki, hogy a szám hányszor szerepel a listában!
+
+1) A feladatot old meg ciklussal és számlálóval!
+2) A feladatot old meg count()-al!
