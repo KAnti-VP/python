@@ -1,5 +1,7 @@
-Készíts programot, mely a heti lottótalálatokat ellenőrzi, hogy a felhasználónak hány találata volt.
+Készíts programot, mely a heti lottótalálatokat ellenőrzi,
+hogy a felhasználónak hány találata volt.
 
-Készíts véletlen generálással ötelemű listát, mely a lottószámokat tartalmazza.
+Készíts véletlen generálással ötelemű listát, 
+mely a lottószámokat tartalmazza.
 A felhasználótól bekérsz öt számot.
 Kííratod, hogy a felhasználónak hány találata volt.
