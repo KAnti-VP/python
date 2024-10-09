@@ -1,9 +1,11 @@
 Készíts egy programot, mely egy listából kiválasztja a legnagyobbat:
 
+Megoldás lépései:
 Veszünk egy változót, legyen ez a legnagyobb.
 Veszi a lista első elemét és feltételezzük, hogy az a legnagyobb.
 legnagyobb = lista első eleme
-Utána végigmegyünk e lista elemein és egyesével megvizsgáljuk, hogy az elem nagyobb-e legnagyobb változónál.
+Utána végigmegyünk a lista elemein és egyesével megvizsgáljuk, 
+hogy az elem nagyobb-e legnagyobb változónál.
 Ha nagyobb, akkor a legnagyobb egyenlő lesz az aktuális elemmel.
 
 Plusz feladat:
