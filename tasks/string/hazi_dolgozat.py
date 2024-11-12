@@ -19,7 +19,7 @@
 # 2 pont
 
 
-# Kérj be egy új egész számot, és írasd ki a tizedes szám egész részes osztását a most megadott számmal!
+# Kérj be egy új egész számot, és írasd ki a tizedes szám osztását a most megadott számmal!
 # 2 pont
 
 
@@ -62,7 +62,7 @@ num_list = [10, 9, 11, 6, 3, 4, 5, 11, 10, 2, 5, 6, 7, 6, 9, 2]
 # 2 pont
 
 
-# Rendezd a lista másolatát növekvő sorrendbe!
+# Rendezd a lista másolatát növekvő sorrendbe és írasd ki!
 # 2 pont
 
 
