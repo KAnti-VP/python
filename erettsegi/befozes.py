@@ -14,6 +14,9 @@ maximum = max(uvegek)
 print(f'A legnagyobb üveg: {maximum} dl és {uvegek.index(maximum) + 1}. a sorban.')
 
 print('4. feladat')
-jam_capacity = sum(uvegek)
+# jam_capacity = sum(uvegek)
+jam_capacity = 0
+for capacity in uvegek:
+    jam_capacity += capacity
 text_output = 'Elegendő üveg volt.' if jam_capacity >= jam_amount else 'Maradt lekvár.'
 print(text_output)
