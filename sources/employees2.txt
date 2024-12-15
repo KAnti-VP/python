@@ -1,0 +1,11 @@
+Firstname	Lastname	Position	Salary
+John	Smith	Software Engineer	75000
+Emily	Davis	Data Analyst	65000
+Michael	Brown	Project Manager	80000
+Sarah	Johnson	Marketing Lead	70000
+Robert	Wilson	HR Manager	68000
+Laura	Moore	UX Designer	72000
+David	Taylor	Accountant	60000
+Jessica	Martinez	Product Manager	85000
+Daniel	Anderson	System Admin	70000
+Emma	Thomas	Content Writer	55000
