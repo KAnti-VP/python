@@ -1,37 +1,27 @@
-8
-szt2mikric@vasvari.org
-5		nov. 23. 11:12	
-szt2halpat@vasvari.org
-4		nov. 23. 11:12	
-szt2bukarm@vasvari.org
-7		nov. 23. 11:12	
-szt2agoarm@vasvari.org
-4		nov. 23. 11:12	
-szt2keklaj@vasvari.org
-5		nov. 23. 11:12	
-szt2poltam@vasvari.org
-4		nov. 23. 11:12	
-szt2zakbal@vasvari.org
-8		nov. 23. 11:12	
-szt2gemsza@vasvari.org
-2		nov. 23. 11:12	
-szt2mulben@vasvari.org
-3		nov. 23. 11:12	
-szt2peltam@vasvari.org
-6		nov. 23. 11:12	
-szt2makpet@vasvari.org
-5		nov. 23. 11:12	
-szt2hodlaj@vasvari.org
-3		nov. 23. 11:12	
-szt2kehsza@vasvari.org
-3		nov. 23. 11:12	
-szt2vetmat@vasvari.org
-5		nov. 23. 11:12	
-szt2bacpet@vasvari.org
-5		nov. 23. 11:12	
-szt2otokov@vasvari.org
-4		nov. 23. 11:12	
-szt2szaviv@vasvari.org
-5		nov. 23. 11:12	
-szt2misnan@vasvari.org
-5		nov. 23. 11:12
+6
+szt3daratt@vasvari.org
+5		Nincs közzétéve
+szt3csamar@vasvari.org
+4		Nincs közzétéve
+szt3rackev@vasvari.org
+5		Nincs közzétéve
+szt3totann@vasvari.org
+5		Nincs közzétéve
+szt3gyovik@vasvari.org
+5		Nincs közzétéve
+szt3mesden@vasvari.org
+4		Nincs közzétéve
+szt3dekmar@vasvari.org
+5		Nincs közzétéve
+szt3kovric@vasvari.org
+5		Nincs közzétéve
+szt3kisnor@vasvari.org
+4		Nincs közzétéve
+szt3gyukev@vasvari.org
+5		Nincs közzétéve
+szt3torlas@vasvari.org
+2		Nincs közzétéve
+szt3molcsa@vasvari.org
+5		Nincs közzétéve
+szt3bitger@vasvari.org
+4		Nincs közzétéve
