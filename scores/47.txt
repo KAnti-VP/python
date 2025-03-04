@@ -1,4 +1,4 @@
-3		Pontszám közzétéve	
+3
 szt3daratt@vasvari.org
 0		Nincs közzétéve	
 szt3totann@vasvari.org
