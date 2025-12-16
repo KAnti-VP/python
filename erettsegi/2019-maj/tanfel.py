@@ -11,7 +11,7 @@ class Beosztas:
 
 def read_eosztas():
   rows = []
-  with open('apalvizsgafeladatok\\beosztas.txt', 'r') as f:
+  with open('beosztas.txt', 'r') as f:
     rows = f.readlines()
   content = []
   for i in range(0, len(rows), 4):
@@ -74,4 +74,5 @@ print('6. feladat')
 print(csoportbontas_e(beosztas))
 
 print('7. feladat')
+
 tanarok_szama(beosztas)
