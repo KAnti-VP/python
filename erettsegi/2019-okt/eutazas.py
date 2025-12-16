@@ -9,7 +9,7 @@ class Jegy:
     
 def beolvasas():
   tickets = []
-  with open('alapvizsgafeladatok\\utasadat.txt', 'r') as f:
+  with open('utasadat.txt', 'r') as f:
     for row in f:
       data = row.strip().split(' ')
       tickets.append(Jegy(int(data[0]), data[1], int(data[2]), data[3], data[4] if data[3] == 'JGY' else int(data[4])))
@@ -98,4 +98,5 @@ kedvezmenyes_utasok(jegyek)
 
 print('6. feladat')
 print('7. feladat')
+
 figyelmeztetes(jegyek)
