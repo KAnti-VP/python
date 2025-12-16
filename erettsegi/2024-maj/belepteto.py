@@ -31,7 +31,7 @@ def printCards(cards: list[Card]):
 
 def readFile():
   data = []
-  with open('alapvizsgafeladatok\\bedat.txt', 'r') as f:
+  with open('bedat.txt', 'r') as f:
     for row in f:
       card = row.strip().split(' ')
       data.append(Card(card[0], card[1], int(card[2])))
@@ -126,3 +126,4 @@ back_door(cards_data)
 
 print('7. feladat')
 duration_time(cards_data)
+
