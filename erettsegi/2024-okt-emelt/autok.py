@@ -11,7 +11,7 @@ class Jel:
 ###################################################################
 
 def beolvasas():
-  with open('alapvizsgafeladatok\\jeladat.txt', 'r') as f:
+  with open('jeladat.txt', 'r') as f:
     adatok = []
     for sor in f:
       adat = sor.strip().split('\t')
@@ -117,4 +117,5 @@ print('6. feladat')
 jarmu_jeladasai(jelek)
 
 print('7. feladat')
+
 jarmu_be_ki_lepes(jelek)
