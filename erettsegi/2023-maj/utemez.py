@@ -50,6 +50,25 @@ def zajlo_taborok(taborok: list[Tabor]):
       szamlalo += 1
   print(f'Ekkor éppen {szamlalo} tábor tart.')
 
+def taborban(taborok: list[Tabor], tanulo):
+  mindegyik = True
+  napok = set()
+  sorok = []
+  for tabor in taborok:
+    if tanulo in tabor.diakok:
+      sorok.append(str(tabor))
+      start = sorszam(tabor.start_ho, tabor.start_nap)
+      stop = sorszam(tabor.end_ho, tabor.end_nap) + 1
+      for i in range(start, stop):
+        if i in napok:
+          mindegyik = False
+        napok.add(i)
+  with open('egytanulo.txt', 'w') as f:
+    f.write('\n'.join(sorted(sorok)))
+  return mindegyik
+
+
+
 print('1. feladat')
 taborok: list[Tabor] = fajlolvasas()
 
@@ -71,3 +90,9 @@ print('6. feladat')
 zajlo_taborok(taborok)
 
 print('7. feladat')
+tanulo = input('Adja meg egy tanulő betűjelét: ')
+mindegyik = taborban(taborok, tanulo)
+if mindegyik:
+  print('Elmehet mindegyik táborba.')
+else:
+  print('Nem mehet el mindegyik táborba.')
