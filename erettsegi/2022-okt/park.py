@@ -86,7 +86,7 @@ print('1. feladat')
 print('Adat beolvasása')
 offers: list[Row] = []
 flowerbed = 0
-with open('alapvizsgafeladatok\\felajanlas.txt', 'r') as f:
+with open('felajanlas.txt', 'r') as f:
   flowerbed = int(f.readline())
   for line in f:
     data = line.strip().split(' ')
@@ -115,4 +115,5 @@ print('5. feladat')
 implantation(offers, flowerbed)
 
 print('6. feladat')
+
 writeFile(offers, flowerbed)
