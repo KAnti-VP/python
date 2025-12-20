@@ -11,7 +11,7 @@ class Rendeles:
 
 def fajlolvasas():
   adatok = []
-  with open('alapvizsgafeladatok\\rendel.txt', 'r') as f:
+  with open('rendel.txt', 'r') as f:
     for sor in f:
       adat = sor.strip().split(' ')
       rendeles = Rendeles(int(adat[0]), adat[1], int(adat[2]))
@@ -86,3 +86,4 @@ content = '\n'.join(rows)
 with open('kampany.txt', 'w') as f:
   f.write(content)
   print(content)
+
