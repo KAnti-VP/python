@@ -1,11 +1,11 @@
 osvenyek = []
 dobasok = []
 
-with open('alapvizsgafeladatok\\osvenyek.txt', 'r') as f:
+with open('osvenyek.txt', 'r') as f:
   for sor in f:
     osvenyek.append(sor.strip())
 
-with open('alapvizsgafeladatok\\dobasok.txt', 'r') as f:
+with open('dobasok.txt', 'r') as f:
   dobasok = list(map(int, f.readline().strip().split(' ')))
 
 print('2. feladat')
@@ -73,3 +73,4 @@ for key, value in hely.items():
     print(f'{key}. játékos, {value}. mező')
 
 print(len(osveny), hely)
+
