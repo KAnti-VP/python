@@ -1,0 +1,11 @@
+Nemes 120 Ferencváros
+Szedlacsik 90 Ferencváros
+Kubala 80 Ferencváros
+Sipos 150 Ferencváros
+Avar 110 MTK
+Marosvari 105 Vasas
+Kovács 50 Honvéd
+Nagy 70 Újpest
+Kiss 40 Diósgyőr
+Tóth 95 Videoton
+Molnár 30 Pécs
