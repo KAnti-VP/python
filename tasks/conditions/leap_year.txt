@@ -1,5 +1,9 @@
 Write a program that checks if a given year is a leap year or not.
 
+- Years divisible by 4 are leap years,
+- but years divisible by 100 are not leap years,
+- but years divisible by 400 are leap years.
+
 Leap years:
 2000, 2004, 1904, 2024, 1600
 
