@@ -1,1 +1,3 @@
 Create a program that prints the letters from a string but stops the loop when the letter is vowels.
+
+text = "LET US ALL BE THE LEADERS we wish we had."
